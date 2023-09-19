@@ -1,0 +1,15 @@
+{
+    "name": "Xender",
+    "alias": "xender",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Xender\\Providers\\XenderServiceProvider",
+        "Modules\\Xender\\Providers\\ViewServiceProvider",
+        "Modules\\Xender\\Providers\\GenderServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
